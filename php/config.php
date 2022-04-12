@@ -12,6 +12,8 @@
 	define('SMTP_USERNAME','');
 	define('SMTP_PASSWORD','');
 
+	//aasdl;fjalsd;fjaksdjf;ajsdfl;kjalsdjfl;kasjdfl;kasjdflkjasdlfj
+
 	// Messages
 	define('MSG_INVALID_NAME','Please enter your name.');
 	define('MSG_INVALID_EMAIL','Please enter valid e-mail.');
